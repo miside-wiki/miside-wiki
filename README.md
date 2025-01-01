@@ -1,6 +1,8 @@
 ## About MiSide Wiki
 
-The **MiSide Wiki** is a dedicated online platform for enthusiasts and players of the psychological horror game **MiSide**, developed by **AIHASTO** and released on **December 11, 2024**. This Wiki serves as a comprehensive resource, providing detailed information about the game’s characters, storylines, gameplay mechanics, and community interactions.
+The [**MiSide Wiki**](https://miside.wiki) is a dedicated online platform for enthusiasts and players of the psychological horror game **MiSide**, developed by **AIHASTO** and released on **December 11, 2024**. This Wiki serves as a comprehensive resource, providing detailed information about the game’s characters, storylines, gameplay mechanics, and community interactions.
+
+[For more information, feel free to visit our MiSide Wiki site!](https://miside.wiki)
 
 ## Core Features
 
